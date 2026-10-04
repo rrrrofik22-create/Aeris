@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Aeris</string>
+    <string name="accessibility_service_description">Aeris Agent Service for UI observation, node inspection, and automated device interaction.</string>
+</resources>
